@@ -5,10 +5,10 @@ function App() {
     <div className='min-h-screen w-full bg-slate-900 flex items-center justify-center'>
       <div className='flex flex-col space-y-3'>
         <div>
-          <p className='text-white font-bold text-2xl'>Noah Cook</p>
-          <p className='text-slate-400 text-sm'>Software Engineer</p>
+          <p className='text-white font-bold text-3xl'>Noah Cook</p>
+          <p className='text-slate-400'>Software Engineer</p>
         </div>
-        <ul className='text-emerald-400 text-sm'>
+        <ul className='text-emerald-400'>
           {[
             {
               text: 'Instagram',
