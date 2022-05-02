@@ -1,3 +1,7 @@
+I decided I wanted a simple personal website without any flare or maintenance needed.
+So, here it is.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
