@@ -6,7 +6,7 @@ function App() {
       <div className='flex flex-col space-y-3'>
         <div>
           <p className='text-white font-bold text-3xl'>Noah Cook</p>
-          <p className='text-slate-400'>Software Engineer</p>
+          <p className='text-slate-400 font-mono'>Software Engineer</p>
         </div>
         <ul className='text-emerald-400'>
           {[
